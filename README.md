@@ -1,2 +1,2 @@
 # Pizza
-Recipe for making repository
+Recipe for making soup
